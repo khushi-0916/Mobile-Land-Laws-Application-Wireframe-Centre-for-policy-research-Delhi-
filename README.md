@@ -4,7 +4,7 @@ Mobile app providing citizens searchable access to Indian land laws, designed du
 
 > Designed and strategised during a **Paid Internship** at the  
 > **Centre for Policy Research (CPR), New Delhi**  
-> Land Rights Initiative — as the **sole UX Design Intern.**
+> Land Rights Initiative — as the **sole Intern.**
 
 ---
 
