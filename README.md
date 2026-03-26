@@ -134,20 +134,4 @@ feature roadmap, and team responsibilities.
 ## 📌 Disclaimer
 
 This project was created during a paid internship at CPR 
-New Delhi for civic and policy research purposes.
-All legal content belongs to their respective owners.
-```
-
----
-
-## Repository name suggestion:
-```
-MILL-CPR-Delhi-Land-Laws-App
-```
-
-## And for LinkedIn — write it as:
-```
-UX Design Intern (Paid) · Centre for Policy Research, New Delhi
-Jan 2026 - Present
-- Sole intern responsible for complete UX design and 
-  mobile app strategy for MILL — Mobile Indian Land Laws
+New Delhi.
