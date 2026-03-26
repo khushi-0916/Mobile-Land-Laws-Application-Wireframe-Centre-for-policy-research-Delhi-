@@ -13,7 +13,7 @@ Mobile app providing citizens searchable access to Indian land laws, designed du
 | Type | Link |
 |------|------|
 | 🎨 Wireframe | (https://www.figma.com/design/Wm2hIqlvMyPq8rvha9USlq/land-laws-mobile-application-demo?t=mAHjqbE8FyVQDm3k-1) |
-| 📋 Strategy Document | |
+| 📋 Strategy Document |(https://github.com/khushi-0916/Mobile-Land-Laws-Application-Wireframe-Centre-for-policy-research-Delhi-/commit/c02a251c5617ee984bb13e53e676af33e65ce857) |
 
 ---
 
